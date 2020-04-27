@@ -15,7 +15,8 @@
 		<module>cat-hadoop</module>
 		<module>cat-home</module>
 		<module>cat-alarm</module>
-	</modules>
+        <module>integration-demo</module>
+    </modules>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
